@@ -10,7 +10,9 @@
 6. Installation
 7. Post-Installation
 8. Other Languages
-   
+9. Contributors
+   9.1. Outside Contributors
+   9.2. Github Contributors 
 
 
 # 1 - Introduction
@@ -28,5 +30,5 @@ I became interested while interacting on the [manjaro forums](https://forum.manj
 
 While interacting I made an account and made [this  thread](https://forum.manjaro.org/t/help-with-first-install-on-a-2-gpu-notebook-dell-inspiron-i15-gaming-7567/36568) with the intention of gathering information of people who had the same laptop and had more experience handling the compatiblity procedures to make the laptop work completly.
 
-On this tread I recevied a lot of information from a user called pobrn, his github is 
+On this tread I recevied a lot of information from a user called pobrn, sadly I didn't get a github account to link this hero. 
 
