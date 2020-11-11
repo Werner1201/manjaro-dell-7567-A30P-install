@@ -1,8 +1,7 @@
 # Installing Manjaro on a Dell Inspiron 7567
 
 ## Summary:
-1. Introduction
-    1.1. Why make a "Tutorial" ? 
+1. Introduction<br/>   1.1. Why make a "Tutorial" ? 
 2. Navigation on the "Tutorial"
 3. Contributing
 4. Cautions
@@ -10,9 +9,9 @@
 6. Installation
 7. Post-Installation
 8. Other Languages
-9. Contributors
-   9.1. Outside Contributors
-   9.2. Github Contributors 
+9. Contributors<br/>    9.1. Outside Contributors
+<br>9.2. Github Contributors 
+
 
 
 # 1 - Introduction
