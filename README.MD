@@ -2,7 +2,7 @@
 
 ## Summary:
 1. Introduction
-  1.1. Why make a "Tutorial" ? 
+    1.1. Why make a "Tutorial" ? 
 2. Navigation on the "Tutorial"
 3. Contributing
 4. Cautions
