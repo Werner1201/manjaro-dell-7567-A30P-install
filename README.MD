@@ -1,4 +1,4 @@
-# Installing Manjaro on a Dell Inspiron 7567
+# Installing Manjaro on a Dell Inspiron 7567 A30P
 
 ## Summary:
 1. [Introduction](https://github.com/Werner1201/manjaro-dell-7567-A30P-install#1---introduction)<br/>   1.1. [Why make a "Tutorial" ? ](https://github.com/Werner1201/manjaro-dell-7567-A30P-install#11---why-make-a-tutorial-) 
