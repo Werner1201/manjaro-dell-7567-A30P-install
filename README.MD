@@ -2,13 +2,13 @@
 
 ## Summary:
 1. Introduction
-  1.1. Why make a List of actions ? 
-3. Navigation on the "Tutorial"
-4. Cautions
-5. Pre-configuration
-6. Installation
-7. Post-Installation
-8. Other Languages
+  1.1. Why make a "Tutorial" ? 
+2. Navigation on the "Tutorial"
+3. Cautions
+4. Pre-configuration
+5. Installation
+6. Post-Installation
+7. Other Languages
 
 # 1 - Introduction
 Hi! If you are here you are looking to install Manjaro Linux on your mid-end Laptop, right ? You came to the right place let's get to the introductions.
