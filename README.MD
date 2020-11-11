@@ -10,6 +10,8 @@
 6. Installation
 7. Post-Installation
 8. Other Languages
+   
+
 
 # 1 - Introduction
 Hi! If you are here you are looking to install Manjaro Linux on your mid-end Laptop, right ? You came to the right place let's get to the introductions.
@@ -19,3 +21,12 @@ My name is Werner I study The Information Systems on a Private Brazillian Colleg
 Here you'll get lots of information about what you need to do before, during and after the manjaro installation.
 
 Also for now I'll be covering only the calamares/GUI install, since I didn't experiment with the Architech Version. 
+
+
+## 1.1 - Why Make a "tutorial" ?
+I became interested while interacting on the [manjaro forums](https://forum.manjaro.org/) searching for previous answers about the same topic of this tutorial, since I had just bought a new ssd it was the incentive I needed to start using Linux and reinstalling a new os was going to be needed anyways since OS on this laptop is installed on the ssd. 
+
+While interacting I made an account and made [this  thread](https://forum.manjaro.org/t/help-with-first-install-on-a-2-gpu-notebook-dell-inspiron-i15-gaming-7567/36568) with the intention of gathering information of people who had the same laptop and had more experience handling the compatiblity procedures to make the laptop work completly.
+
+On this tread I recevied a lot of information from a user called pobrn, his github is 
+
